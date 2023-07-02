@@ -11,3 +11,4 @@
 Install Docker Desktop from here  - https://docs.docker.com/desktop/. 
 Choose the distribution of your choice but we will be using Windows.
 
+<img width="924" alt="image" src="https://github.com/Mogith-P-N/FaceTok-devops-main/assets/113936190/dbc0f323-c104-4f7c-8880-d98532a2eccc">
